@@ -10,4 +10,7 @@
 4. bot dibuat dengan Google Apps Script (GAS)
 5. fitur login dibuat dengan '@humamyazidbot login' lalu ketika enter akan muncul hasil dari gabungan user dan karakter khusus
 6. resi/struk pada paket mengikuti online shop yang ada
+7. Tabel Pesanan:
+   a. Id_User
+   b. 
    
