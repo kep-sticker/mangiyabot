@@ -7,5 +7,5 @@
    b. alamat diisi ketika user checkout barang pertama kali
    c. alamat boleh lebih dari satu
    d. alamat harus jelas dan tidak ambigu
-5. 
+4. bot dibuat dengan Google Apps Script (GAS)
    
